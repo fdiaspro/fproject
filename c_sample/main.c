@@ -19,6 +19,7 @@
  */
 int main(int argc, char** argv) {
 
+    printf ("ciao Git");
     return (EXIT_SUCCESS);
 }
 
